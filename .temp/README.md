@@ -15,10 +15,6 @@ WebGL + Angular 2 + three js library
 
 Comes in webpack in angular but can be install around the web if not included in whatever web framework your using.
 
-# Create the projet
-
-`ng new webgl --style=scss && cd webgl`
-
 # Adding three js library:
 
 add the library to your modules with:
